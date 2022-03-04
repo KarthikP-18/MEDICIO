@@ -1,0 +1,1653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Website</title>
+    <link rel="stylesheet" href="./demo (1).css">
+
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+     
+     
+<body>
+    <div class="container">
+
+        <div class="head-1">
+            <div class="head-1-time"><i class="fa-solid fa-clock"></i>Monday - Saturday, 8AM to 10PM</div>
+            <div class="head-1-cell"><i class="fa-solid fa-mobile"></i>Call us now +1 5589 55488 55</div>
+        </div>
+        <div class="head-2">
+            <div class="head-2-log">
+                <img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/logo.png" alt="">
+            </div>
+            <div class="head-2-nav">
+				<nav>
+				<ul>
+					<li><a href=""> HOME </a></li>
+					<li><a href=""> ABOUT </a></li>
+					<li><a href=""> SERVICE </a></li>
+					<li><a href=""> DEPARTMENT </a></li>
+					<li><a href=""> DOCTORS </a></li>
+					<li><a href=""> DROPDOWN </a></li>
+					<li><a href=""> CONTACT </a></li>
+					<li><button> MAKE AN APPOINTMENT </button>
+					</li>
+				</ul>
+			</nav>
+            </div>
+			<div>
+			</div>
+        </div>
+
+		<div class="content-slide">
+            <div class="content-slide-cont">
+                <h2>sequi ea ut est quarent </h2>
+                <p>"Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel."</p>
+                    <button>Read More</button>
+            </div>
+		</div>
+        <div class="slid-cont-div">
+            <div class="slid-cont-div-content-pls">
+                <i class="fa-solid fa-heart-pulse" style="width: 180px;" style="height: 170px;"></i>
+                <h5>Lorem Ipsum</h5>
+                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            </div>
+            <div class="slid-cont-div-content-pil">
+                <i class="fa-solid fa-pills"></i>
+                <h5>
+                    Sed ut perspiciatis</h5>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+            </div>
+            <div class="slid-cont-div-content-trm">
+                <i class="fa-solid fa-thermometer"></i>
+                <h5>Magni Dolores</h5>
+                <p>
+                    Magni Dolores
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+            </div>
+            <div class="slid-cont-div-content-dna">
+                <i class="fa-solid fa-dna"></i>
+                <h5> Nemo Enim</h5>
+                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            </div>
+        </div>
+        <div class="content-make-appoint">
+
+            <h4>In an emergency? Need help now?</h4>
+            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            <button class="ap-btn"> Make an Appointment </button>
+        </div>
+        <div class="cotent-aboutus">
+            <h2> ABOUT US </h2>
+            <hr>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <div class="content-aboutus-body">
+                <div class="aboutus-content-image"><img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/about.jpg
+                    " alt="">
+                </div>
+                <div class="aboutus-content-text">
+                    <h2>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <ul>
+                        <li><i class="fa-solid fa-check"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                        <li><i class="fa-solid fa-check"></i>Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                        <li><i class="fa-solid fa-check"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                    </ul>
+                    <p>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                </div>
+                </div>
+                <div class="about-us-footer">
+                    <div class="about-us-foter-cont">
+                        <i class="fa-solid fa-user-doctor" ></i><h1>85</h1>
+                        <p> <b>Doctors</b> consequuntur quae qui deca rode </p>
+                        <a href="">Find out more >> </a>
+                    </div>
+                    <div class="about-us-foter-cont">
+                        <i class="fa-regular fa-building"></i><h1>26</h1>
+                        <p> <b>Departments</b>   adipisci atque cum quia aut numquam delectus </p>
+                        <a href="">Find out more >> </a>
+                    </div>
+                    <div class="about-us-foter-cont">
+                        <i class="fa-regular fa-flask"></i><h1>14</h1>
+                        <p> <b>Research Lab</b>  aut commodi quaerat. Aliquam ratione</p>
+                        <a href="">Find out more >> </a>
+                    </div>
+                    <div class="about-us-foter-cont">
+                        <i class="fa-regular fa-award"></i><h1>150</h1>
+                        <p> <b>Awards</b>  rerum asperiores dolor molestiae doloribu </p>
+                        <a href="">Find out more >> </a>
+                    </div>
+                </div>
+                <div class="footer-final">
+                    <div class="fot-final-left">
+                    <div class="f-final-left">
+                        
+                        <div class="f-left-img"><i class="fa-solid fa-receipt"></i></div>
+                        <h2>Est labore ad</h2>
+                        <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                    </div>
+                    <div class="f-final-left">
+                        <div class="f-left-img"> <i class="fa-solid fa-cube"></i></div>
+                        <h2>Harum esse qui </h2>
+                             <p>     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                    </div>
+                    <div class="f-final-left">
+                        <div class="f-left-img"> <i class="fa-solid fa-images"></i></div>
+                        <h2>Aut occaecati</h2>
+                        <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                    </div>
+                    <div class="f-final-left">
+                        <div class="f-left-img"><i class="fa-regular fa-shield-blank"></i></div>
+                        <h2>Beatae veritatis</h2>
+                        <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                    </div>
+                </div>
+                    <div class="f-final-right"><img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/features.jpg" alt="">
+                    </div>
+                </div>
+           </div>
+                <!-- SERVICE code start -->
+        <div class="service-cont-body">
+                    <div  class="service-cont-body-headder">
+                    <h2>SERVICES</h2>
+                    <hr>
+                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    </div>  
+                    <div class="service-cont-body-content">
+                        <div class="service-cont-body-content-row-one">
+                        <div class="service-content-body-div">
+                            <i class="fa-solid fa-heart-pulse"></i>
+                            <h2>Lorem Ipsum</h2>
+                            <hr>
+                            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                        </div>
+                        <div class="service-content-body-div">
+                            <i class="fa-solid fa-pills"></i>
+                            <h2>Dolor Sitema</h2>
+                            <hr>
+                            <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                        </div>
+                        <div class="service-content-body-div">
+                            <i class="fa-solid fa-hospital-user"></i>
+                            <h2>Sed ut perspiciatis</h2>
+                            <hr>
+                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                        </div>
+                    </div>
+                    <div class="service-cont-body-content-row-two">
+                        <div class="service-content-body-div">
+                            <i class="fa-solid fa-hospital-user"></i>
+                            <h2>Magni Dolores</h2>
+                            <hr>
+                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                        </div>
+                        <div class="service-content-body-div">
+                            <i class="fa-solid fa-wheelchair"></i>
+                            <h2>Nemo Enim</h2>
+                            <hr>
+                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                        </div>
+                        <div class="service-content-body-div">
+                            <i class="fa-duotone fa-note-medical"></i>
+                            <h2>Eiusmod Tempor</h2>
+                            <hr>
+                            <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                        </div>
+                    </div>
+                    </div>
+         </div>
+                <!-- SERVICE code Ends -->
+                <!-- Make an appointment start -->
+        <div class="make-an-appoint">
+                    <h1> <b> MAKE AN APPOINTMENT </b></h1>
+                    <hr>
+                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <input type="text" placeholder=" YOUR NAME ">
+                    <input type="text" placeholder=" YOUR Email ">
+                    <input type="text" placeholder=" YOUR Phone ">
+                    <input type="text" placeholder=" Appointment Date  ">
+                    <select name="" id="" class="dropadownlist">
+                        <option value="">Select Department</option>
+                        <option value=""> Department 1</option>
+                        <option value=""> Department 2</option>
+                        <option value=""> Department 3</option>
+                    </select>
+                    <select name="" id="" class="dropadownlist">
+                        <option value="">Select DOCTOR</option>
+                        <option value=""> DOCTOR 1</option>
+                        <option value=""> DOCTOR 2</option>
+                        <option value=""> DOCTOR 3</option>
+                    </select>
+                    <textarea name="" id="" cols="125" rows="5" placeholder=" Message (Optional) "></textarea>   <br>                
+                    <button>Make An Appointment </button>
+            </div>
+                 <!-- Make an appointment Ends  -->
+                 <!-- Department design Start -->
+        <div class="dept-cont-body"> 
+                    <h1>DEPARTMENTS</h1>
+                    <hr>
+                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                        <div class="dept-cont-body-left">
+                            <div class="dept-cont-body-left-cont">
+                                <h4>Cardiology</h4>
+                                <p>Quis excepturi porro totam sint earum quo nulla perspiciatis eius.</p>
+                            </div>
+                            <div class="dept-cont-body-left-cont">
+                                <h4>Neurology</h4>
+                                <p>Voluptas vel esse repudiandae quo excepturi.</p>
+                            </div>
+                            <div class="dept-cont-body-left-cont">
+                                <h4>Hepatology</h4>
+                                <p>Velit veniam ipsa sit nihil blanditiis mollitia natus.</p>
+                            </div>
+                            <div class="dept-cont-body-left-cont">
+                                <h4>Pediatrics</h4>
+                                <p>Ratione hic sapiente nostrum doloremque illum nulla praesentium id</p>
+                            </div>
+                        </div>
+                        <div class="dept-cont-body-right">
+                            <h2>Cardiology</h2>
+                            <p class="p-head"> Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
+                            
+                            <img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/departments-1.jpg" alt="">
+                                
+                                    <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+                        </div>
+                    </div>
+                        
+                 <!-- Department design Ends -->
+
+                 <!-- Testimonials Desing start  -->
+                 <div class="test-content">
+                     <h1> <b> TESTIMONIALS </b></h1>
+                     <hr>
+
+                     <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                     <div class="test-content-body">
+
+                        <div class="test-content-body-cont">
+                            <p><sup>"</sup>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.<sup>"</sup></p>
+                            <img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/testimonials/testimonials-2.jpg" alt="">
+                            <h3>Sara Wilsson  </h3>
+                            <h5> Designer </h5>
+                            
+                        </div>
+
+                        <div class="test-content-body-cont">
+                            <p> <sup>"</sup>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas. <sup>"</sup></p>
+                            <img src="	https://bootstrapmade.com/demo/templates/Medicio/assets/img/testimonials/testimonials-3.jpg" alt="">
+                            <h3>Jena karlis </h3>
+                            <h5>Store Owner </h5>
+                        </div>
+                        <div class="test-content-body-cont">
+                            <p>
+                               <sup>"</sup> Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas. <sup>"</sup></p>
+                            <img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/testimonials/testimonials-1.jpg" alt="">
+                            <h3>saul Goodman </h3>
+                            <h5>CEO And Co Founder  </h5>  
+                        </div>                    
+                    </div>
+                 </div>
+                 <!-- Testimonials Desing Ends   -->
+                 <!-- Doctor Design starts -->
+                 <div class="doct-conte-body">
+                    <h1>DOCTORS</h1>
+                    <hr>
+                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <div class="doct-cont-body-content">
+                        <div class="doct-cont-body-content-bdy">
+                            <img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/doctors/doctors-1.jpg" alt="">
+                            <h2>Walter White</h2>
+                            <h6>Chief Medical Officer</h6>
+
+                        </div>
+                        <div class="doct-cont-body-content-bdy">
+                            <img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/doctors/doctors-2.jpg" alt="">
+                            <h2>Sarah Jhonson</h2>
+                            <h6>Anesthesiologist</h6>
+                        </div>
+                        <div class="doct-cont-body-content-bdy">
+                            <img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/doctors/doctors-3.jpg" alt="">
+                            <h2>William Andersonr</h2>
+                            <h6>Cardiology</h6>
+                        </div>
+                        <div class="doct-cont-body-content-bdy">
+                            <img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/doctors/doctors-4.jpg" alt="">
+                            <h2>Amanda Jepson</h2>
+                            <h6>Neurosurgeon</h6>
+                        </div>
+                    </div>
+                 </div>
+                 <!-- Doctor Design Ends -->
+                 <!-- Gallary Desing Startted  -->
+                <div class="gala-cont-body">
+                    <h2>GALLERY</h2>
+                    <hr>
+                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                   <div class="gala-cont-body-content">
+                    <div><img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/gallery/gallery-5.jpg" alt=""></div>
+                    <div><img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/gallery/gallery-7.jpg" alt=""></div>
+                    <div><img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/gallery/gallery-4.jpg" alt=""></div>
+                    <div><img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/gallery/gallery-8.jpg" alt=""></div>
+                    <div><img src="https://bootstrapmade.com/demo/templates/Medicio/assets/img/gallery/gallery-8.jpg" alt=""></div>
+                </div>
+                </div>          
+                 <!-- Gallary Desing  ended  -->
+                 <!-- Pricing design starts -->
+                 <div class="pricing-content-body">
+                     <h1>PRICING</h1>
+                     <hr>
+                     <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                     <div class="pricing-content-body-cont">
+                         <div class="pricing-content-body-cont-body">
+                             <h4>Free</h4>
+                             
+                             <h5> <sup>$</sup> 0 / month</h5>
+                             <p>Aida dere
+                                Nec feugiat nisl
+                                Nulla at volutpat dola
+                                Pharetra massa
+                                Massa ultricies mi
+                             </p>
+                             <button>Buy Now</button>
+
+
+                         </div>
+                         <div class="pricing-content-body-cont-body">
+                            <h4> <b> Business </b></h4>
+                            
+                            <h5> <sup>$</sup> 19 / month</h5>
+                            <p>Aida dere
+                               Nec feugiat nisl
+                               Nulla at volutpat dola
+                               Pharetra massa
+                               Massa ultricies mi
+                            </p>
+                            <button>Buy Now</button>
+
+
+                        </div>
+                        <div class="pricing-content-body-cont-body">
+                            <h4> <b> Developer </b></h4>
+                            
+                            <h5> <sup>$</sup> 29 / month</h5>
+                            <p>Aida dere
+                               Nec feugiat nisl
+                               Nulla at volutpat dola
+                               Pharetra massa
+                               Massa ultricies mi
+                            </p>
+                            <button>Buy Now</button>
+
+
+                        </div>
+                        <div class="pricing-content-body-cont-body">
+                            <h4> <b> Ultimate </b></h4>
+                            
+                            <h5> <sup>$</sup> 49 / month</h5>
+                            <p>Aida dere
+                               Nec feugiat nisl
+                               Nulla at volutpat dola
+                               Pharetra massa
+                               Massa ultricies mi
+                            </p>
+                            <button>Buy Now</button>
+                        </div>
+                     </div>
+
+                 </div>
+                 <!-- Pricing design starts -->
+                 <!-- frequently Asked question design starts -->
+                 <div class="freq-askedq-cont-body">
+                     <h2>FREQUENTLY ASKED QUESTIOINS</h2>
+                     <hr>
+                     <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                     <ul>
+                         <li><i class="fa-solid fa-angle-up"></i><a href="">Non consectetur a erat nam at lectus urna duis?</a></li>
+                         <li><i class="fa-solid fa-angle-up"></i><a href="">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</a></li>
+                         <li><i class="fa-solid fa-angle-up"></i><a href="">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?</a></li>
+                         <li><i class="fa-solid fa-angle-up"></i><a href="">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</a></li>
+                         <li><i class="fa-solid fa-angle-up"></i><a href="">Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</a></li>
+                         <li><i class="fa-solid fa-angle-up"></i><a href="">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor?</a></li>
+                     </ul>
+                 </div>
+                 <!-- frequently Asked question design starts -->
+                 <!-- contact us Design strarts  -->
+                 <div class="contact-us-content-body">
+                     <h1>CONTACT</h1>
+                     <hr>
+                     <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                     <div id="map"></div>
+
+                      <div class="contact-us-content-body-cont">
+
+                        <div class="contact-us-content-body-1">
+                            <div class="contact-us-content-body-1-col" style="width: 600px;">
+                                <i class="fa-solid fa-location-dot" style="margin-left: 300px;margin-top: 20px; margin-bottom: 20px;"></i>
+                                <h3>Our Address</h3>
+                                <p>A108 Adam Street, New York, NY 535022</p>
+
+                            </div>
+                            <div class="contact-us-content-body-1-col" style="width: 300px; float: left;">
+                                <i class="fa-solid fa-circle-envelope" style="margin-left: 150px;margin-top: 20px;"></i>
+                                <h3>Email Us</h3>
+                                <p>info@example.com
+                                    contact@example.com</p>
+                            </div>
+                            <div class="contact-us-content-body-1-col" style="width: 300px; float: right;">
+                                <i class="fa-solid fa-phone-volume" style="margin-left: 150px;margin-top: 20px; font-size: 20px; padding-top: 18px;"></i>
+                                <h3>Call Us</h3>
+                                <p>+1 5589 55488 55
+                                    +1 6678 254445 41</p>
+                            </div>
+                        </div>
+                        <div class="contact-us-content-body-2">
+                            <input type="text" placeholder=" Your Name " name=" "id="demo">
+                            <input type="text" placeholder="Your Email ">
+                            <input type="text" placeholder=" Subject "  style="width: 500px; margin-bottom: 20px;">
+                            <textarea name="" id="" cols="80" rows="5" placeholder=" Message " style="margin-left: 15px;"></textarea>
+                            <button> Send Message </button>
+                        </div>
+                      </div>
+                 </div>
+                 <!-- contact us Design Ends  -->
+                 <!-- footer Design Starts  -->
+                 <div class="foot-content-body">
+                     <div class="foot-content-body-left" style="margin-left: 20px;">
+                         <h5>Medicio</h5>
+                         <p> A108 Adam Street
+                            NY 535022, USA</p><br>
+                        <p style="width: 150px;">
+                            Phone: +1 5589 55488 55 <br>
+                            Email: info@example.com
+                        </p>
+                        <div class="img-cls">
+                            <i class="fa-brands fa-twitter-square" ></i>
+                            <i class="fa-brands fa-facebook-square"></i>
+                            <i class="fa-brands fa-instagram-square"></i>
+                            <i class="fa-brands fa-skype"></i>
+                            <i class="fa-brands fa-linkedin"></i>
+                        </div>
+                     </div>
+                     <!-- Usefull Links  -->
+                     <div class="foot-content-body-left">
+                         <h5>Useful Links</h5>
+                         <ul>
+                             <li><a href=""style="text-decoration: none;"> HOME </a></li>
+                             <li><a href=""style="text-decoration: none;"> About Us  </a></li>
+                             <li><a href=""style="text-decoration: none;"> Sevice  </a></li>
+                             <li><a href=""style="text-decoration: none;"> Terms of Service  </a></li>
+                             <li><a href=""style="text-decoration: none;"> Privacy Policy  </a></li>
+                         </ul>
+                     </div>
+                     <!-- Our SERVICE -->
+                     <div calss="foot-content-body-left" style="width: 300px; font-size: 20px; padding: auto;">
+                        <h5 style="margin-bottom: 20px;">Our Services </h5>
+                        <ul>
+                            <li style="list-style: none; "><a href="" style="text-decoration: none;font-size: 18px;"> Web Design  </a></li>
+                            <li style="list-style: none;"><a href=""style="text-decoration: none; font-size: 18px;"> Web Developement  </a></li>
+                            <li style="list-style: none;"> <a href=""style="text-decoration: none; font-size: 18px;"> Product Management</a></li>
+                            <li style="list-style: none;"><a href=""style="text-decoration: none; font-size: 18px;"> Marketing </a></li>
+                            <li style="list-style: none;"><a href=""style="text-decoration: none; font-size: 18px;"> Graphic Design </a></li>
+                        </ul>
+                    </div>
+                    <!-- Our Newsletter -->
+                    <div class="foot-content-body-left">
+                        <h5>Our Newsletter</h5>
+                        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                        <input type="text" placeholder=" "><button>Subscribe</button>
+                    </div>
+                 </div>
+                 <!-- copyrights  -->
+                 <div class="footer-final">
+                     <p>© Copyright Medicio. All Rights Reserved</p>
+                     <p>Designed by <a href="">Bootstrapmade</a> </p>
+
+
+                 </div>
+
+                 <!-- footer Design ends  -->
+                
+        
+    </div>
+    <script>
+// Initialize and add the map
+function initMap() {
+  // The location of Uluru
+  const uluru = { lat: -25.344, lng: 131.036 };
+  // The map, centered at Uluru
+  const map = new google.maps.Map(document.getElementById("map"), {
+    zoom: 4,
+    center: uluru,
+  });
+  // The marker, positioned at Uluru
+  const marker = new google.maps.Marker({
+    position: uluru,
+    map: map,
+  });
+}
+
+
+    </script>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly"
+      async
+    ></script>
+    <script src="https://bootstrapmade.com/assets/js/demo-3.1.0.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55234356-4"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-55234356-4');</script>
+</body>
+</html>
+
+
+css code
+
+*{
+    padding:0%;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+.head-1{
+    width: 100%;
+    height: 30px;
+    border-color: blue;
+    margin: 2px;
+    padding: 1px;
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+    /* background-color: rgba(127, 255, 212, 0.308); */
+    background: #3fbbc0;
+    color: white;
+    font-size: 20px;
+}
+.container .head-1{
+    margin: 2px;
+    padding: 2px;
+
+
+}
+.container .head-1 .head-1-time{
+float: left;
+padding-left: 10px;
+
+
+}
+.container .head-1 .head-1-time i{
+    margin-right: 10px;
+}
+.container .head-1 .head-1-cell{
+    float: left;
+    padding-left: 650px;
+   
+}
+.container .head-1 .head-1-cell i{
+    margin-right: 10px;
+}
+.head-2{
+    margin: 1px;
+    padding: 1px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
+}
+.container .head-2{
+    margin: 2px;
+    padding: 2px;
+    background-color: white;
+    color: aquamarine;
+    text-align: justify;
+    display: flex;
+    flex-direction: row;
+
+}
+.container .head-2 img{
+    display: flex;
+    flex-direction: left;
+    padding-left: 40px;
+    width:200px;
+    height: 70px;
+}
+.container .head-2-nav{
+    float: left;
+    padding-left: 400px;
+    padding: 7px 0px;
+    margin-left: 50px;
+    margin-top: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    
+
+}
+.container .head-2-nav{
+ border-color: black;
+
+}
+.container .head-2-nav nav ul li {
+    list-style: none;
+    display: inline-block;
+  margin-right: 5px;
+
+}
+.container .head-2-nav nav ul li a{
+    padding: 7px;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+
+}
+.container .head-2-nav nav ul li a:hover{
+
+    color:aquamarine;
+}
+.container .head-2-nav nav ul li button{
+    background: #3fbbc0;
+    color: white;
+    border-style: none;
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 10px;
+    
+}
+
+.container .content-slide{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.164),rgba(0, 0, 0, 0.103)), 
+	    url("https://bootstrapmade.com/demo/templates/Medicio/assets/img/slide/slide-1.jpg");
+	    background-repeat: no-repeat; 
+	    background-position: center;
+        position: relative;
+        width: 100%;
+     
+        overflow: hidden;
+        opacity: 0.9;
+        position: relative;
+        text-align: center;
+        margin: 2px;
+        padding: 1px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+}
+.content-slide .content-slide-cont{
+   align-items: center; 
+    padding: 5px;
+    margin-top: 100px;
+    background-color: rgba(236, 229, 220, 0.664);
+    text-align: center;
+    margin-bottom: 25px;
+    width: 1200px;
+    border-top: 5px solid blue;
+    position: relative;
+}
+
+.content-slide .content-slide-cont h2{
+text-align: center;
+color: black;
+margin-top: 10px;
+margin-bottom: 30px;
+font-size: 50px;
+padding: 0px;
+}
+.content-slide .content-slide-cont p{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.content-slide .content-slide-cont button{
+    margin-top: 10px;
+    text-align: center;
+    padding: 14px 30px;
+    border-style: none;
+    background: #3fbbc0;
+    color: white;
+    transition: 0.5s;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+}
+.container .slid-cont-div{
+    margin-top: 156y6px;
+    padding : 5px;
+    display: flex;
+    height: 250px;
+    margin-bottom: 10px;
+    border: rgba(107, 32, 32, 0);
+    justify-content: space-around;
+    
+
+}
+/* .container .slid-cont-div-content-pls, .container .slid-cont-div-content-pil, .container .slid-cont-div-content-trm, .container .slid-cont-div-content-dna:hover{
+    background-color: #3fbbc0;
+    
+} */
+.container .slid-cont-div .slid-cont-div-content-pls:hover{
+    background-color: #3fbbc0;
+}
+.container .slid-cont-div .slid-cont-div-content-pil:hover{
+    background-color: #3fbbc0;
+}
+.container .slid-cont-div .slid-cont-div-content-trm:hover{
+    background-color: #3fbbc0;
+}
+.container .slid-cont-div .slid-cont-div-content-dna:hover{
+    background-color: #3fbbc0;
+}
+.container .slid-cont-div .slid-cont-div-content-pls, .container .slid-cont-div .slid-cont-div-content-pil, .container .slid-cont-div .slid-cont-div-content-trm, .container .slid-cont-div .slid-cont-div-content-dna{
+    width: auto;
+    
+}
+.container .slid-cont-div .slid-cont-div-content{
+    padding :5px;
+    margin: 5px;
+    background-color: white;
+    border: white;
+ }
+ .container .slid-cont-div i{
+    padding: 4px;
+    margin: 5px;
+    
+    font-size: 40px;
+
+ }
+ .container .slid-cont-div h5{
+    color: black;
+    margin-bottom: 35px;
+    font-size: 25px;
+ }
+ .container .slid-cont-div  p{
+     
+     color: rgba(0, 0, 0, 0.322);
+     width:280px;
+     padding: 4px;
+     margin: 5px;
+
+ }
+ .container .content-make-appoint{
+     background-color: #3fbbc0;
+ }
+ .container .content-make-appoint h4{
+     text-align: center;
+     font-size: 40px;
+    padding-top: 40px;
+     margin: 2px;
+     color: white;
+ }
+ .container .content-make-appoint p{
+   text-align: center;
+     padding-top: 50px;
+     padding-left: 200px;
+     padding-right: 0px;
+     width: 1200px;
+     color: white;
+     font-size: 19px;
+ }
+ .container .content-make-appoint button{
+     width: 350px;
+     margin-top: 25px;
+    margin-left: 40%;
+    margin-bottom: 50px;
+    border-radius: 25px;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    border: 2px solid white;
+    background-color: #3fbbc0; 
+ }
+ .container .content-make-appoint button:hover{
+     background-color:white;
+      color: #3fbbc0; ;
+ }
+ .container .cotent-aboutus{
+
+    width: auto;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 75px;
+    margin-right: 75px;
+ }
+ .container .cotent-aboutus h2{
+     align-items: center;
+     text-align: center;
+     font-size: 30PX;
+     color: rgba(0, 0, 0, 0.651);
+     
+ }
+ .container .cotent-aboutus hr{
+     width: 75px;
+     margin-top: 15px;
+     height: 5px;
+     margin-left: 47%;
+     background-color: aqua;
+     border-radius: 10px;
+     margin-bottom: 15px;
+ }
+ .container .cotent-aboutus p{
+     align-items: center;
+     text-align: center;
+     font-size: 20px;
+     color: rgba(0, 0, 0, 0.61);
+ }
+ .container .cotent-aboutus .content-aboutus-body{
+     display: flex;
+     flex-direction: row;
+     width: 100%;
+ }
+ .container .cotent-aboutus .content-aboutus-body .aboutus-content-image img{
+    margin: 25px 30px;
+    width: 500px;
+    height: 450px;
+    padding: 5px 2px;
+  
+ }
+ .container .cotent-aboutus .content-aboutus-body .aboutus-content-text{
+width: 800px;
+ }
+ .container .cotent-aboutus .content-aboutus-body .aboutus-content-text h2{
+     align-items: center;
+     text-align: left;
+     color: rgba(0, 0, 0, 0.699);
+     width: 700px;
+     padding:10px;
+     margin-top: 20px;
+     font-size: 30px;
+
+ }
+ .container .cotent-aboutus .content-aboutus-body .aboutus-content-text p{
+     color: rgba(0, 0, 0, 0.644);
+     text-align: left;
+     margin: 15px;
+     padding: 7px;
+ }
+ .container .cotent-aboutus .content-aboutus-body .aboutus-content-text ul{
+
+
+ }
+ .container .cotent-aboutus .content-aboutus-body .aboutus-content-text ul li{
+    color: rgba(0, 0, 0, 0.644);
+    list-style: none;
+    font-size: 20px;
+    
+    
+ }
+ .container .cotent-aboutus .content-aboutus-body .aboutus-content-text ul li i{
+     font-size: 20px;
+     margin-right: 15px;
+     margin-top: 10px;
+     
+ }
+ .container .cotent-aboutus .about-us-footer{
+     display: flex;
+     background-color: rgba(36, 26, 26, 0.096);
+ }
+ .container .cotent-aboutus .about-us-footer .about-us-foter-cont{
+     background-color: white;
+     width: 1000px;
+     height: 250px;
+     margin-left: 10px;
+     margin: 10px;
+     padding: 10px;
+     box-shadow: -5px 2px 5px 7px rgba(199, 199, 199, 0.336);
+ }
+ .container .cotent-aboutus .about-us-footer .about-us-foter-cont i{
+     font-size: 30px;
+     margin: 10px;
+     padding: 20px;
+     float: left;
+ }
+ .container .cotent-aboutus .about-us-footer .about-us-foter-cont h1{
+     float: right;
+     padding: 20px;
+     margin: 10px;
+ }
+ .container .cotent-aboutus .about-us-footer .about-us-foter-cont p{
+    margin-top: 100px;
+    text-align: left;
+    margin-bottom: 20px;
+    width: 250px;
+     color: black;
+ }
+ .container .cotent-aboutus .about-us-footer .about-us-foter-cont a{
+     text-align: left;
+     align-items: left;
+     color: rgba(0, 0, 0, 0.5);
+     text-decoration: none;
+ }
+ .container .cotent-aboutus .footer-final{
+     margin: 0px;
+     display: flex;
+     flex-direction: row;
+     width: 300px;
+     height: 500px;
+ }
+ .container .cotent-aboutus .footer-final .f-final-left{
+     margin-top: 20px;
+     width: 400px;
+     float: left;
+     display: flex;
+     flex-direction: column;
+ }
+
+ .container .cotent-aboutus .footer-final .f-final-left i{
+     font-size: 35px;
+ }
+ .container .cotent-aboutus .footer-final .f-final-left h2{
+     float: right;  
+ }
+ .container .cotent-aboutus .footer-final .f-final-right{
+     margin-left: 0px;
+     margin-right: 0px;
+     width: 700px;   
+    height: 500px;
+ }
+.container .cotent-aboutus .footer-final .f-final-right img{
+    width: 700px;
+   height: 500px;
+}
+
+/* Service style design starts */
+.container .service-cont-body{
+    
+}
+.container .service-cont-body .service-cont-body-headder{
+    text-align: center;
+    align-items: center;
+}
+.container .service-cont-body .service-cont-body-headder h2{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-size: 50px;
+}
+.container .service-cont-body .service-cont-body-headder hr{
+
+    width: 50px;
+   margin-top: 15px;
+   margin-bottom: 15px;
+    margin-left: 47%;
+    width: 100px;
+    border: 1px solid #3fbbc0;
+}
+.container .service-cont-body .service-cont-body-headder p{
+    margin:auto;
+    padding: 5px;
+    text-align: center;
+    font-size: 22px;
+    line-height: 30px;
+    color:rgba(0, 0, 0, 0.644);
+
+}
+.container .service-cont-body .service-cont-body-content{
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-one{
+display: flex;    
+flex-direction: row;
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-two{
+ display :flex;
+ flex-direction: row;
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-one .service-content-body-div{
+width: auto;
+height: 250px;
+text-align: center;
+margin: 10px;
+padding: 20px;
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-one .service-content-body-div i{
+    font-size: 50px;
+    padding-top: 15px;
+    width: 100px;
+    height: 80px;
+    background-color: rgba(90, 83, 83, 0.692);
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-one .service-content-body-div h2{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-one .service-content-body-div hr{
+    width: 70px;
+    margin-left: 150px;
+    border: 2px solid #3fbbc0;
+    margin-bottom: 10px;
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-one .service-content-body-div p{
+font-size: 18px;
+color: rgba(56, 51, 51, 0.767);
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-two .service-content-body-div{
+    width: auto;
+    height: 250px;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;    
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-two .service-content-body-div i{
+    font-size: 50px;
+    padding-top: 15px;
+    width: 110px;
+    height: 80px;
+    background-color: rgba(90, 83, 83, 0.692);
+    margin-bottom: 20px;
+    border-radius: 50%;  
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-two .service-content-body-div h2{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;   
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-two .service-content-body-div hr{
+
+    width: 70px;
+    margin-left: 150px;
+    border: 2px solid #3fbbc0;
+    margin-bottom: 10px;
+}
+.container .service-cont-body .service-cont-body-content .service-cont-body-content-row-two .service-content-body-div p{
+    font-size: 18px;
+color: rgba(56, 51, 51, 0.767);
+
+}
+/* Service style design ends */
+
+/* Make an appoinment style starts */
+
+.container .make-an-appoint{
+    text-align: center;
+    background-color: #176969d5;
+    margin: 5px;
+    padding: 5px;
+}
+.container .make-an-appoint h1{
+    color: black;
+    margin: 15px;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+   
+}
+.container .make-an-appoint hr{
+    margin-left: 45%;
+    width: 100px;
+    border: 2px solid #3fbbc0;
+    margin-bottom: 15px;
+}
+.container .make-an-appoint p{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+.container .make-an-appoint input{
+    width: 25%;
+    margin: 15px;
+    height: 35px;
+}
+.container .make-an-appoint .dropadownlist{
+    width: 25%;
+    height: 35px;
+    border: 1px solid;
+    margin: 15px;
+}
+.container .make-an-appoint input[type=textarea]{
+
+    width: 100%;
+    text-align: left;
+    align-items: left;
+}
+.container .make-an-appoint button{
+    margin:20px;
+    padding: auto;
+    height: 45px;
+    width: 240px;
+    background-color: #3fbbc0;
+    border: 1px;
+    border-radius: 25px;
+    color: white;
+    font-size: 15px; 
+    margin-bottom: 50px;
+}
+.container .make-an-appoint button:focus{
+    border: 2px solid rgb(100, 100, 170);
+}
+/* Make an appoinment style ends */
+/* Departement style starts */
+.container .dept-cont-body{
+    width: auto;
+    padding: 2px;
+    margin: 2px;
+    display: flex;
+    flex-direction: column;
+
+}
+.container .dept-cont-body h1{
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.container .dept-cont-body hr{
+    width: 75px;
+    margin-top: 5px;
+    height: 5px;
+    margin-left: 47%;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-bottom: 15px;
+ }
+ .container .dept-cont-body p{
+    text-align: center;
+    align-items: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 20px;
+ }
+ .container .dept-cont-body .dept-cont-body-left{
+     float: left;
+     width: 500px;
+     height: 250px;
+     
+
+ }
+ .container .dept-cont-body .dept-cont-body-left h4{
+     margin-top: 10px;
+     margin-bottom: 15px;
+     font-size: 18px;
+
+ }
+
+ .container .dept-cont-body .dept-cont-body-right{
+     float: left;
+    margin-left: 500px;
+    flex-direction: row;
+     width: 900px;
+     margin-top: -240px;
+     margin-bottom: 40px;
+ }
+ .container .dept-cont-body .dept-cont-body-right img{
+     align-items: left;
+     width: 250px;
+     height: 250px;
+ }
+ .container .dept-cont-body .dept-cont-body-right .p-head {
+     align-items: left;
+     text-align: left;
+     width: auto;
+     flex-direction: column;
+
+ }
+ .container .dept-cont-body .dept-cont-body-right p{
+     float:right;
+     text-align: left;
+     padding-left: -200px;
+     width: 300px;
+     flex-direction: column;
+     margin-left: -300px;
+ }
+
+
+
+
+/* Departement style ends */
+.container .test-content{
+    width: auto;
+    padding: 2px;
+    margin: 5px;
+}
+.container .test-content h1{
+    text-align: center;
+    align-items: center;
+    font-size: 32px;
+    font-weight: 700;
+    padding: 5px;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-family:  "Roboto", sans-serif;
+}
+.container .test-content hr{
+    width: 100px;
+    margin-top: 15px;
+    height: 5px;
+    margin-left: 47%;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+.container .test-content p{
+    text-align: center;
+    align-items: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+    line-height: 28px;
+
+}
+.container .test-content .test-content-body{
+    margin: 5px;
+    padding: 3px;
+    display: flex;
+
+}
+.container .test-content .test-content-body .test-content-body-cont{
+    margin: 10px;
+    padding: 2px;
+    width: 30%;
+    height: 400px;
+    flex-direction: column;
+    
+}
+.container .test-content .test-content-body .test-content-body-cont p{
+    font-style: italic;
+    margin: 0 15px 0 15px;
+    padding: 20px 20px 60px 20px;
+    background: #f0fafa;
+    border-radius: 6px; 
+}
+.container .test-content .test-content-body .test-content-body-cont p sub{
+    vertical-align: super;
+    font-size: 50px;
+}
+.container .test-content .test-content-body .test-content-body-cont img{
+    width: 90px;
+    border-radius: 50%;
+    margin: -40px 0 0 40px;
+    position: relative;
+    
+    border: 6px solid #fff;
+}
+.container .test-content .test-content-body .test-content-body-cont h3{
+  padding: 5px;
+  margin-left: 20px;
+  font-family: "Roboto", sans-serif;  
+}
+.container .test-content .test-content-body .test-content-body-cont h5{
+    color: rgba(145, 143, 143, 0.466);
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+.container .doct-conte-body{
+    padding: 5px;
+    margin-top: 25px;
+}
+.container .doct-conte-body h1{
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    margin:5px
+}
+.container .doct-conte-body hr{
+     width: 75px;
+     margin-top: 5px;
+     height: 5px;
+     margin-left: 47%;
+     background-color: aqua;
+     border-radius: 10px;
+     margin-bottom: 15px;
+ }
+ .container .doct-conte-body p{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    width: auto;
+    font-size: 19px;
+ }
+ .container .doct-conte-body .doct-cont-body-content{
+     padding: 5px;
+     margin: 5px;
+     display: flex;
+     flex-direction: row;
+     margin-left: 150px;
+     margin-right: 150px;
+     background-color: #f7fcfc;;
+ }
+ .container .doct-conte-body .doct-cont-body-content .doct-cont-body-content-bdy{
+     width: 320px;
+     background-color: #fff;
+     height: 250px;
+     align-items: center;
+ }
+ .container .doct-conte-body .doct-cont-body-content .doct-cont-body-content-bdy img{
+     width:230px;
+     height:250px ;
+ }
+ .container .doct-conte-body .doct-cont-body-content .doct-cont-body-content-bdy h2{
+     padding: 5px;
+     font-size: 20px;
+     margin: 10px 10px;
+ }
+ .container .doct-conte-body .doct-cont-body-content .doct-cont-body-content-bdy h6{
+color: rgba(131, 125, 125, 0.479);
+margin-bottom: 50px;
+margin-left: 18px;
+}
+.container .doct-conte-body .doct-cont-body-content .doct-cont-body-content-bdy img:hover{
+
+}
+.container .gala-cont-body{
+    padding: 5px;
+    margin-top: 50px;
+}
+.container .gala-cont-body h2{
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container .gala-cont-body hr{
+    width: 75px;
+     margin-top: 15px;
+     height: 5px;
+     margin-left: 47%;
+     background-color: aqua;
+     border-radius: 10px;
+     margin-bottom: 15px;
+
+}
+.container .gala-cont-body p{
+    text-align: center;
+     padding-top: 5px;
+     margin-left: 100px;
+     margin-right: 100px;
+     width: 1100px;
+     font-size: 19px;
+     color: rgba(0, 0, 0, 0.596);
+
+}
+.container .gala-cont-body .gala-cont-body-content{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.container .gala-cont-body .gala-cont-body-content img{
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+.container .gala-cont-body .gala-cont-body-content img:hover{
+    border: 5px solid #3fbbc0;
+}
+/* gellary style end */
+
+/* pricing style start */
+
+.container .pricing-content-body{
+    padding: 2px;
+    margin: 2px;
+    
+}
+.container .pricing-content-body h1{
+    text-align: center;
+    align-items: center;
+    font: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.container .pricing-content-body hr{
+    width: 75px;
+     margin-top: 15px;
+     height: 5px;
+     margin-left: 47%;
+     background-color: aqua;
+     border-radius: 10px;
+     margin-bottom: 15px;
+
+}
+.container .pricing-content-body p{
+    text-align: center;
+    
+    margin-right: 50px;
+    padding-left: 80px;
+    width: 1000px;
+    font-size: 19px;
+
+}
+.container .pricing-content-body .pricing-content-body-cont{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
+    padding: 10px;
+}
+.container .pricing-content-body .pricing-content-body-cont .pricing-content-body-cont-body{
+
+width: 300px;
+height: 250px;
+border: 5px rgba(108, 149, 160, 0.123) ;
+}
+.container .pricing-content-body .pricing-content-body-cont .pricing-content-body-cont-body h4{
+    text-align: center;   
+    padding: 5px;
+    margin: 5px;
+    background-color: #3fbcc063;
+    border-radius: 5px;
+}
+.container .pricing-content-body .pricing-content-body-cont .pricing-content-body-cont-body h5{
+    padding: 2px;
+    margin: 15px;
+    text-align: center;
+}
+.container .pricing-content-body .pricing-content-body-cont .pricing-content-body-cont-body p{
+    width:250px ;
+    margin-bottom: 20px;
+}
+.container .pricing-content-body .pricing-content-body-cont .pricing-content-body-cont-body button{
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 130px;
+    width: 120px;
+    height: 30px;
+    background-color: #3fbbc0;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+}
+.container .freq-askedq-cont-body{
+    padding: 5px;
+    margin: 10px;
+    background-color: #f7fcfc;
+}
+.container .freq-askedq-cont-body h2{
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.container .freq-askedq-cont-body hr{
+    width: 75px;
+    margin-top: 15px;
+    height: 5px;
+    margin-left: 47%;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+.container .freq-askedq-cont-body p{
+margin:auto;
+    padding: 5px;
+    text-align: center;
+    font-size: 22px;
+    line-height: 30px;
+    color:rgba(0, 0, 0, 0.644);
+}
+.container .freq-askedq-cont-body ul{
+    margin-left: 100px;
+}
+.container .freq-askedq-cont-body ul li{
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    list-style: none;
+}
+.container .freq-askedq-cont-body ul li a{
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.container .contact-us-content-body{
+    padding: 2px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.container .contact-us-content-body h1{
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.container .contact-us-content-body hr{
+width: 50px;
+   margin-top: 15px;
+   margin-bottom: 15px;
+    margin-left: 46%;
+    width: 100px;
+    border: 1px solid #3fbbc0;
+}
+.container .contact-us-content-body p{
+    text-align: center;
+    padding-top:10px;
+    margin-left: 80px;
+    margin-right: 80px;
+    width: auto;
+    font-size: 19px;
+
+}
+/* Set the size of the div element that contains the map */
+#map {
+    margin-top: 20px;
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+    margin-bottom: 20px;
+  }
+  .container .contact-us-content-body .contact-us-content-body-cont .contact-us-content-body-1{
+      flex-direction: column;
+      float: left;
+      width: 50%;
+
+  }
+  .container .contact-us-content-body .contact-us-content-body-cont .contact-us-content-body-1-col{
+     
+  }
+  .container .contact-us-content-body .contact-us-content-body-cont .contact-us-content-body-1-col i{
+    text-align: center;  
+    font-size: 25px;
+    padding-top: 10px;
+      margin-bottom: 15px;
+      border-radius: 50%;
+      background-color: #3fbbc0;
+      width: 50px;
+      height: 50px;
+  }
+  .container .contact-us-content-body .contact-us-content-body-cont .contact-us-content-body-1-col h3{
+      text-align: center;
+      align-items: center;
+  }
+  .container .contact-us-content-body .contact-us-content-body-cont .contact-us-content-body-2{
+      flex-direction: column;
+      width: 50%;
+      float: right;
+  }
+  .container .contact-us-content-body .contact-us-content-body-cont .contact-us-content-body-2 input{
+      padding: 5px;
+      height: 50px;
+      margin: 15px;
+      width: 300px;
+
+  
+   
+    
+    }
+ .container .contact-us-content-body .contact-us-content-body-cont .contact-us-content-body-2 button{
+        margin-left: 70px;
+        margin-top: 20px;
+        width: 200px;
+        height: 40px;
+        background-color:#3fbbc0 ;
+        color: white;
+        border-style: none;
+
+    }
+    .container .foot-content-body{
+        display: flex;
+        flex-direction: row;
+        margin-top: 20px;
+       
+        margin-right: 50px;
+        margin-bottom: 2px;
+        background: #eeeeee;;
+        color: #555555;
+        font-size: 14px;
+        width: 100%;
+    }
+    .container .foot-content-body .foot-content-body-left{
+        width: 350px;
+        height: 130px;
+        float: left;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 15px;
+
+    }
+    .container .foot-content-body .foot-content-body-left .img-cls{
+        font-size: 0px;
+        margin-top: 20px;
+
+    }
+    .container .foot-content-body .foot-content-body-left h5{
+        text-align: left;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .container .foot-content-body .foot-content-body-left p{
+        margin-bottom: 10px;
+    }
+    .container .foot-content-body .foot-content-body-left ul li{
+        list-style: none;
+    }
+    .container .footer-final{
+
+        text-align: center;
+        line-height: 30px;
+        background: #eeeeee;;
+        color: #555555;
+    
+    }
+
+
+

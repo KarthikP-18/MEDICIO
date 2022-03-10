@@ -530,13 +530,7 @@ function initMap() {
 }
 
 
-    </script>
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly"
-      async
-    ></script>
-    <script src="https://bootstrapmade.com/assets/js/demo-3.1.0.js"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55234356-4"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-55234356-4');</script>
+    
 </body>
 </html>
 
